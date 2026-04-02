@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "entretien",
+    "name": "Entretien",
+    "description": "Pièces & produits pour garder votre voiture en forme",
+    "longDescription": "Vidange, filtres, freins, bougies — tout ce qu'il faut pour faire soi-même et bien faire. Des conseils honnêtes pour choisir les bonnes références sans surpayer.",
+    "icon": "Wrench",
+    "color": "#3B82F6"
+  },
+  {
+    "slug": "tuning",
+    "name": "Tuning",
+    "description": "Performances et upgrades moteur",
+    "longDescription": "Filtres sport, suspensions, échappements, reprogrammation. Chaque euro dépensé doit se sentir au volant — on vous dit ce qui vaut le coup et ce qui ne vaut pas.",
+    "icon": "Gauge",
+    "color": "#E63329"
+  },
+  {
+    "slug": "customisation",
+    "name": "Customisation",
+    "description": "Styling, intérieur, look",
+    "longDescription": "Volants, sièges, éclairage LED, carrosserie — donnez un caractère unique à votre auto. Esthétique et praticité, sans compromis sur la qualité.",
+    "icon": "Palette",
+    "color": "#A855F7"
+  }
+]
